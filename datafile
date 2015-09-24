@@ -1,0 +1,20 @@
+NA		1.4
+NoilReal	1.515
+NoilDesign	1.515
+NcovReal	1.530
+NcovDesign	1.530
+NspecReal	1.33
+NspecDesign	1.33
+ToilReal	0.25e-3
+ToilDesign	0.25e-3
+TcovReal	170e-6
+TcovDesign	170e-6
+TspecReal	0.0
+TspecDesign	0.0
+lambda		500e-9
+zdReal		16e-2
+zdDesign	16e-2
+oversampelingFactor 1
+sizeXY 128
+sizeZ 64
+
