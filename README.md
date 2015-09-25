@@ -1,3 +1,3 @@
-This library simulates a point spread function of a wide field optical microscope and creates a volumetric rendering using the VTK library. Further details can be read in the file "poster sohail chatoor Bachelor Thesis.pdf"
+This library simulates a point spread function of a wide field optical microscope and creates a volumetric rendering using the VTK library. This is the first step in the development of deconvolution software for optical microscopes. Further details on what a point spread function is and how deconvolution is accomplished can be read in the file "poster sohail chatoor Bachelor Thesis.pdf"
 
-To get started, run the python file runMe.py and study it's contents
+To get started, run the python file runMe.py and study it's contents. This project does not do full deconvolution yet, but should be seen as a first step toward that goal. The current status of this project is that a point spread function is calculated and displayed.
